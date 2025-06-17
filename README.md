@@ -1,4 +1,4 @@
-# diabetes-prediction-classification-models
+# Diabetes Prediction: Comparison of Classification Models
 
 This project focuses on comparing multiple classification models to predict the presence of diabetes based on clinical features. The goal is to identify the most effective model in terms of predictive performance using standard evaluation metrics.
 
